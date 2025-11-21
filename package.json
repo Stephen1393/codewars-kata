@@ -1,0 +1,23 @@
+{
+  "name": "codewars-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephen1393/codewars-kata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stephen1393/codewars-kata/issues"
+  },
+  "homepage": "https://github.com/Stephen1393/codewars-kata#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
