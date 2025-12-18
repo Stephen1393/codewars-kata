@@ -1,5 +1,5 @@
 
-const { goldbachPartitions } = require("../6kyu-Goldbach's-conjecture");
+const { goldbachPartitions } = require("../src/6kyu-Goldbach's-conjecture");
 
 test('constraints', () => {
     expect(goldbachPartitions(101)).toEqual([]);

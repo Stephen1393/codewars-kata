@@ -1,4 +1,4 @@
-const { splitInParts } = require('../7kyu-split-in-parts');
+const { splitInParts } = require('../src/7kyu-split-in-parts');
 
 test("splitInParts('supercalifragilisticexpialidocious', 3)", () => {
   expect(

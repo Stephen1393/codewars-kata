@@ -1,4 +1,4 @@
-const { removeChar } = require('../8kyu-remove-first-and-last-character');
+const { removeChar } = require('../src/8kyu-remove-first-and-last-character');
 
 
 test('removes first and last character from "eloquent"', () => {

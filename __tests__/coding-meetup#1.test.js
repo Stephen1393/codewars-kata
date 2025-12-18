@@ -1,4 +1,4 @@
-const { countDevelopers } = require('../7kyu-coding-meetup#1');
+const { countDevelopers } = require('../src/7kyu-coding-meetup#1');
 
 test('finds the JavaScript developers from Europe (sample list 1)', () => {
   const list1 = [

@@ -1,4 +1,4 @@
-const { maps } = require('../8kyu-lost-without-a-map');
+const { maps } = require('../src/8kyu-lost-without-a-map');
 
 test('maps doubles each number in the array', () => {
   expect(maps([1, 2, 3])).toEqual([2, 4, 6]);

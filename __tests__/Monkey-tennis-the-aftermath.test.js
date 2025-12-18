@@ -1,4 +1,4 @@
-const { ballCollector } = require('../7kyu-monkey-tennis-the-aftermath');
+const { ballCollector } = require('../src/7kyu-monkey-tennis-the-aftermath');
 
 test('returns combined weight of tennis balls from array', () => {
   const input = [58, 68, 62, 69, 58];

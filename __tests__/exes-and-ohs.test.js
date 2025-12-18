@@ -1,4 +1,4 @@
-const { XO } = require('../7kyu-exes-and-ohs');
+const { XO } = require('../src/7kyu-exes-and-ohs');
 
 test('sample tests from Codewars', () => {
   expect(XO('xo')).toBe(true);
